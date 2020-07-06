@@ -6,9 +6,9 @@
   <a href="https://instagram.com/sam_poder">Instagram</a>
 </p>
 
-| <p align="left"> I live in <strong>Singapore</strong></p>  | I am from **Australia**  |
+| I live in <strong>Singapore</strong>  | I am from **Australia**  |
 |---|---|
-| <img src ="https://source.unsplash.com/400x400/?marina%20bay,landscape,singapore" width = "200px">  |   |
+| <img src ="https://source.unsplash.com/400x400/?marina%20bay,landscape,singapore" width = "200px">  |  <img src ="https://source.unsplash.com/400x400/?sydney,landscape,australia" width = "200px"> |
 
 #### 🔭 Current Project: Hack Club Summer of Making
 
