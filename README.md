@@ -1,4 +1,4 @@
-<h3 align="center" style = "font-size: 2em;">👋 Welcome to my makerspace!</h3>
+<h3 align="center" font-size = "2em">👋 Welcome to my makerspace!</h3>
 
 <p align="center">
   <a href="https://sampoder.com">Web</a> •
