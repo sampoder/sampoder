@@ -1,6 +1,6 @@
 ## 👋 Welcome to my makerspace!
 
-aussie // living in sg // he/him
+[Twitter](https://twitter.com/sam_poder) | [Web](https://sampoder.com)
 
 <!--
 **sampoder/sampoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
