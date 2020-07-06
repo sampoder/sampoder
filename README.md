@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://sampoder.com">Web</a> •
-  <a href="https://twitter.com/sam_poder">Twitter</a>
+  <a href="https://twitter.com/sam_poder">Twitter</a>•
+  <a href="https://instagram.com/sam_poder">Instagram</a>
 </p>
 
 
