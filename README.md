@@ -1,6 +1,12 @@
-## 👋 Welcome to my makerspace!
+<h3 align="center">👋 Welcome to Sam's makerspace</h3>
 
-[Twitter](https://twitter.com/sam_poder) | [Web](https://sampoder.com)
+<p align="center">
+  <a href="https://sampoder.com">Web</a> •
+  <a href="https://twitter.com/sam_poder">Twitter</a>
+</p>
+
+---
+
 
 <!--
 **sampoder/sampoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
