@@ -1,4 +1,4 @@
-<h3 align="center">👋 Welcome to Sam's makerspace</h3>
+<h3 align="center">👋 Welcome to my makerspace! A collection of random things I've built :)</h3>
 
 <p align="center">
   <a href="https://sampoder.com">Web</a> •
