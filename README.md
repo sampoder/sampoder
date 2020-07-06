@@ -1,11 +1,9 @@
-<h3 align="center" font-size = "2em">👋 Welcome to my makerspace!</h3>
+<h1 align="center">👋 Welcome to my makerspace!</h3>
 
 <p align="center">
   <a href="https://sampoder.com">Web</a> •
   <a href="https://twitter.com/sam_poder">Twitter</a>
 </p>
-
----
 
 
 <!--
