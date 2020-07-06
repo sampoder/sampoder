@@ -8,7 +8,7 @@
 
 | I live in **Singapore**  | I am from **Australia**  |
 |---|---|
-| <img src ="https://source.unsplash.com/400x400/?marina%20bay,landscape,singapore">  |   |
+| <img src ="https://source.unsplash.com/400x400/?marina%20bay,landscape,singapore" width = "200px">  |   |
 
 #### 🔭 Current Project: Hack Club Summer of Making
 
