@@ -6,7 +6,7 @@
   <a href="https://instagram.com/sam_poder">Instagram</a>
 </p>
 
-| I live in **Singapore**  | I am from **Australia**  |
+| <p align="left"> I live in <strong>Singapore</strong></p>  | I am from **Australia**  |
 |---|---|
 | <img src ="https://source.unsplash.com/400x400/?marina%20bay,landscape,singapore" width = "200px">  |   |
 
