@@ -22,7 +22,7 @@
 
 Here are some random photos from my life:
 
-<img src ="/GOPR5263.JPG" height = "200px">  <img src ="/IMG_0269.jpg" height = "200px"> <img src ="/IMG_20190427_185037401.jpg" height = "200px">
+<img src ="https://github.com/sampoder/sampoder/raw/master/GOPR5263.JPG" height = "200px">  <img src ="https://github.com/sampoder/sampoder/raw/master/IMG_0269.jpg" height = "200px"> <img src ="https://github.com/sampoder/sampoder/raw/master/IMG_20190427_185037401.jpg/" height = "200px">
 
 <!--
 **sampoder/sampoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
