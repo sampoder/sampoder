@@ -10,13 +10,15 @@
 |---|---|
 | <img src ="https://source.unsplash.com/400x400/?marina%20bay,landscape,singapore" width = "200px">  |  <img src ="https://source.unsplash.com/400x400/?sydney,landscape,australia" width = "200px"> |
 
-#### 🔭 Current Project: Hack Club Summer of Making
+**🔭 Current Project:** Hack Club Summer of Making
 
-#### 🌱 Currently Learning: ReactJS
+**🌱 Currently Learning:** ReactJS
 
-#### 🤪 Fun Fact: My favourite country that I've visited is Taiwan
+**🤔 Thinking about:** STEM Education
 
-#### 📫 Email me: hi@sampoder.com
+**📫 Email me:** hi@sampoder.com
+
+**😄 Pronouns:** he/him/his
 
 
 <!--
