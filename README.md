@@ -14,7 +14,7 @@
 
 #### 🌱 Currently Learning: ReactJS
 
-#### 🤪 Fun Fact: ReactJS
+#### 🤪 Fun Fact: My favourite country that I've visited is Taiwan
 
 #### 📫 Email me: hi@sampoder.com
 
