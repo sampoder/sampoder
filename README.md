@@ -12,7 +12,7 @@
 
 **🔭 Current Project:** Summer of Making
 
-**🌱 Currently Learning:** ReactJS
+**🌱 Currently Learning:** Next.js
 
 **🤔 Thinking about:** STEM Education
 
