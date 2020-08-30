@@ -12,7 +12,7 @@
 
 **🔭 Current Project:** Summer of Making
 
-**🌱 Currently Learning:** Next.js
+**🌱 Currently Learning:** Next.js [(Check out this site I'm working on!)](http://github.com/hackclub/summer-site/pull/54)
 
 **🤔 Thinking about:** STEM Education
 
