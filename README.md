@@ -10,9 +10,9 @@
 |---|---|
 | <img src ="https://source.unsplash.com/400x400/?marina%20bay,landscape,singapore" width = "200px">  |  <img src ="https://source.unsplash.com/400x400/?sydney,landscape,australia" width = "200px"> |
 
-**🔭 Current Project:** Summer of Making
+**🔭 Current Project:** a few, but they're mostly ideas!
 
-**🌱 Currently Learning:** Next.js [(Check out this site I'm working on!)](http://github.com/hackclub/summer-site/pull/54)
+**🌱 Currently Learning:** Next.js [(Check out this site I just made!)](http://summer.hackclub.com)
 
 **🤔 Thinking about:** STEM Education
 
