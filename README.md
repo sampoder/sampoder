@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/310d2d81521a4c20cadbd1c89df6ff7b/cc683b13/screenshot_2020-11-12_at_8.41.21_pm.png">  |  <img src ="https://dl.airtable.com/.attachments/7a579686c66dfcdd9b18000ca0193b0a/bcffedb8/screenshot_2020-11-12_at_1.43.10_am.png"> | <img src ="https://dl.airtable.com/.attachments/7756b6577165166440f1c4d8813ec927/65cd7943/screenshot_2020-11-12_at_1.02.20_am.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/bf96eb0335507f7588c0428b78bc0721/fb3d0a36/halloween.mov">  |  <img src ="https://dl.airtable.com/.attachments/f05b480701bc7d648b375eba8af7cd42/30e4e26e/img_20201114_003244.jpg"> | <img src ="https://dl.airtable.com/.attachments/310d2d81521a4c20cadbd1c89df6ff7b/cc683b13/screenshot_2020-11-12_at_8.41.21_pm.png"> |
 |---|---|---|
-| Scrappy now supports webhooks! so when ever you post something it will send a blank fetch request to... | I edited a musical!! you can watch it at [https://oneness.now.sh](https://oneness.now.sh)... it's fo...  | scrappy webhooks coming soon!   |
+| I made a (funny?) story video out of our school's halloween dress down day pictures... its a bit ran... | i got big sur!  | Scrappy now supports webhooks! so when ever you post something it will send a blank fetch request to...   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
