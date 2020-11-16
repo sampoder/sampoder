@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/d5e0779b5a59b4aab94aaf35227e3056/d3242555/screenshot_2020-11-15_at_11.10.10_pm.png">  |  <img src ="https://dl.airtable.com/.attachments/bf96eb0335507f7588c0428b78bc0721/fb3d0a36/halloween.mov"> | <img src ="https://dl.airtable.com/.attachments/f05b480701bc7d648b375eba8af7cd42/30e4e26e/img_20201114_003244.jpg"> |
+  | <img src ="https://dl.airtable.com/.attachments/ef21c095d2b57900a33c19bb4a65dce7/ef92956d/screenshot_2020-11-16_at_11.38.41_pm.png">  |  <img src ="https://dl.airtable.com/.attachments/d5e0779b5a59b4aab94aaf35227e3056/d3242555/screenshot_2020-11-15_at_11.10.10_pm.png"> | <img src ="https://dl.airtable.com/.attachments/bf96eb0335507f7588c0428b78bc0721/fb3d0a36/halloween.mov"> |
 |---|---|---|
-| Had fun playing minecraft for the first time in a long time Hugo & Jack showed me around the server ... | I made a (funny?) story video out of our school's halloween dress down day pictures... its a bit ran...  | i got big sur!   |
+| playing around with making shipping labels through APIs! | Had fun playing minecraft for the first time in a long time Hugo & Jack showed me around the server ...  | I made a (funny?) story video out of our school's halloween dress down day pictures... its a bit ran...   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
