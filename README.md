@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/ef21c095d2b57900a33c19bb4a65dce7/ef92956d/screenshot_2020-11-16_at_11.38.41_pm.png">  |  <img src ="https://dl.airtable.com/.attachments/d5e0779b5a59b4aab94aaf35227e3056/d3242555/screenshot_2020-11-15_at_11.10.10_pm.png"> | <img src ="https://dl.airtable.com/.attachments/bf96eb0335507f7588c0428b78bc0721/fb3d0a36/halloween.mov"> |
+  | <img src ="https://dl.airtable.com/.attachments/b6209c9b9f2e11d69dfd5d74e49caba3/e300bbbc/screenshot_2020-11-17_at_9.11.37_am.png">  |  <img src ="https://dl.airtable.com/.attachments/ef21c095d2b57900a33c19bb4a65dce7/ef92956d/screenshot_2020-11-16_at_11.38.41_pm.png"> | <img src ="https://dl.airtable.com/.attachments/d5e0779b5a59b4aab94aaf35227e3056/d3242555/screenshot_2020-11-15_at_11.10.10_pm.png"> |
 |---|---|---|
-| playing around with making shipping labels through APIs! | Had fun playing minecraft for the first time in a long time Hugo & Jack showed me around the server ...  | I made a (funny?) story video out of our school's halloween dress down day pictures... its a bit ran...   |
+| this has been floating around the slack last night but let me introduce you to **[meet.hackclub.dev]... | playing around with making shipping labels through APIs!  | Had fun playing minecraft for the first time in a long time Hugo & Jack showed me around the server ...   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
