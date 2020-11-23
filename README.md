@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://imgutil.s3.us-east-2.amazonaws.com/dd60c70a939d0e16fd4a5739a6b7ed427b37fedfee40e8367e538d88861dce54/screenshot_2020-11-23_at_10.09.32_pm.png">  |  <img src ="https://dl.airtable.com/.attachments/dad1cf4b20ca0bf598fe709c16b801c9/764d1000/test.mov"> | <img src ="https://dl.airtable.com/.attachments/3651b5e988191c05b8e8296f304a659d/f2f5e36f/screenshot_2020-11-22_at_11.28.47_pm.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/bef3e9f05f86a09a9e0443bef6c14091/3be4a851/20201123_162811.jpg">  |  <img src ="https://dl.airtable.com/.attachments/99cb7b2564f9eda2f6cc32ba10df08bd/60320652/screenshot_2020-11-23_at_10.09.32_pm.png"> | <img src ="https://dl.airtable.com/.attachments/dad1cf4b20ca0bf598fe709c16b801c9/764d1000/test.mov"> |
 |---|---|---|
-| i hosted a modified round of jeopardy! i also built [https://jeopardy.sampoder.com](https://jeopardy... | this was once the busiest border crossing in the world, thanks covid  | i worked out how to gain access to the image feeds of major traffic cameras around the island and bu...   |
+| first meeting went amazing!!! thank you everyone that gave advice, couldn't have done it with out yo... | i hosted a modified round of jeopardy! i also built [https://jeopardy.sampoder.com](https://jeopardy...  | this was once the busiest border crossing in the world, thanks covid   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
