@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/3651b5e988191c05b8e8296f304a659d/f2f5e36f/screenshot_2020-11-22_at_11.28.47_pm.png">  |  <img src ="https://dl.airtable.com/.attachments/61f221c7701381fa140ea1eeed7c25a2/5debdfc6/screenshot_2020-11-22_at_4.02.37_pm.png"> | <img src ="https://dl.airtable.com/.attachments/70e45167495e170b3456972af70f077b/b79ff397/img_20201122_001842.jpg"> |
+  | <img src ="https://dl.airtable.com/.attachments/dad1cf4b20ca0bf598fe709c16b801c9/764d1000/test.mov">  |  <img src ="https://dl.airtable.com/.attachments/3651b5e988191c05b8e8296f304a659d/f2f5e36f/screenshot_2020-11-22_at_11.28.47_pm.png"> | <img src ="https://dl.airtable.com/.attachments/61f221c7701381fa140ea1eeed7c25a2/5debdfc6/screenshot_2020-11-22_at_4.02.37_pm.png"> |
 |---|---|---|
-| i worked out how to gain access to the image feeds of major traffic cameras around the island and bu... | slides ready for tomorrow!  | brought loads of lollies for the club   |
+| this was once the busiest border crossing in the world, thanks covid | i worked out how to gain access to the image feeds of major traffic cameras around the island and bu...  | slides ready for tomorrow!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
