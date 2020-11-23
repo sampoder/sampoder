@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/dad1cf4b20ca0bf598fe709c16b801c9/764d1000/test.mov">  |  <img src ="https://dl.airtable.com/.attachments/3651b5e988191c05b8e8296f304a659d/f2f5e36f/screenshot_2020-11-22_at_11.28.47_pm.png"> | <img src ="https://dl.airtable.com/.attachments/61f221c7701381fa140ea1eeed7c25a2/5debdfc6/screenshot_2020-11-22_at_4.02.37_pm.png"> |
+  | <img src ="https://imgutil.s3.us-east-2.amazonaws.com/dd60c70a939d0e16fd4a5739a6b7ed427b37fedfee40e8367e538d88861dce54/screenshot_2020-11-23_at_10.09.32_pm.png">  |  <img src ="https://dl.airtable.com/.attachments/dad1cf4b20ca0bf598fe709c16b801c9/764d1000/test.mov"> | <img src ="https://dl.airtable.com/.attachments/3651b5e988191c05b8e8296f304a659d/f2f5e36f/screenshot_2020-11-22_at_11.28.47_pm.png"> |
 |---|---|---|
-| this was once the busiest border crossing in the world, thanks covid | i worked out how to gain access to the image feeds of major traffic cameras around the island and bu...  | slides ready for tomorrow!   |
+| i hosted a modified round of jeopardy! i also built [https://jeopardy.sampoder.com](https://jeopardy... | this was once the busiest border crossing in the world, thanks covid  | i worked out how to gain access to the image feeds of major traffic cameras around the island and bu...   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
