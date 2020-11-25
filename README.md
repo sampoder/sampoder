@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/d61190ef638c4ed685112e376acf2600/477da572/20201124_160238.jpg">  |  <img src ="https://dl.airtable.com/.attachments/bef3e9f05f86a09a9e0443bef6c14091/3be4a851/20201123_162811.jpg"> | <img src ="https://dl.airtable.com/.attachments/99cb7b2564f9eda2f6cc32ba10df08bd/60320652/screenshot_2020-11-23_at_10.09.32_pm.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/e47d6e5a5a8d8a1782f932b9f0412606/ab2dbe83/screenshot_2020-11-25_at_9.26.33_am.png">  |  <img src ="https://dl.airtable.com/.attachments/d61190ef638c4ed685112e376acf2600/477da572/20201124_160238.jpg"> | <img src ="https://dl.airtable.com/.attachments/bef3e9f05f86a09a9e0443bef6c14091/3be4a851/20201123_162811.jpg"> |
 |---|---|---|
-| making something with hardware! | first meeting went amazing!!! thank you everyone that gave advice, couldn't have done it with out yo...  | i hosted a modified round of jeopardy! i also built [https://jeopardy.sampoder.com](https://jeopardy...   |
+| fun fact i now have a registered spotify artist account! | making something with hardware!  | first meeting went amazing!!! thank you everyone that gave advice, couldn't have done it with out yo...   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
