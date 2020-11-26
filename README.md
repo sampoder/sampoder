@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/e47d6e5a5a8d8a1782f932b9f0412606/ab2dbe83/screenshot_2020-11-25_at_9.26.33_am.png">  |  <img src ="https://dl.airtable.com/.attachments/d61190ef638c4ed685112e376acf2600/477da572/20201124_160238.jpg"> | <img src ="https://dl.airtable.com/.attachments/bef3e9f05f86a09a9e0443bef6c14091/3be4a851/20201123_162811.jpg"> |
+  | <img src ="https://dl.airtable.com/.attachments/c781c8872298a85b53b0131cc8710abb/05f2b0f9/20201126_164609.jpg">  |  <img src ="https://dl.airtable.com/.attachments/e47d6e5a5a8d8a1782f932b9f0412606/ab2dbe83/screenshot_2020-11-25_at_9.26.33_am.png"> | <img src ="https://dl.airtable.com/.attachments/d61190ef638c4ed685112e376acf2600/477da572/20201124_160238.jpg"> |
 |---|---|---|
-| fun fact i now have a registered spotify artist account! | making something with hardware!  | first meeting went amazing!!! thank you everyone that gave advice, couldn't have done it with out yo...   |
+| made some progress with a flimsy (for now) wall! and drilled through metal which was painful but lik... | fun fact i now have a registered spotify artist account!  | making something with hardware!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
