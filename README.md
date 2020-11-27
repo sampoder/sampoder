@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/c781c8872298a85b53b0131cc8710abb/05f2b0f9/20201126_164609.jpg">  |  <img src ="https://dl.airtable.com/.attachments/e47d6e5a5a8d8a1782f932b9f0412606/ab2dbe83/screenshot_2020-11-25_at_9.26.33_am.png"> | <img src ="https://dl.airtable.com/.attachments/d61190ef638c4ed685112e376acf2600/477da572/20201124_160238.jpg"> |
+  | <img src ="https://dl.airtable.com/.attachments/b9b43f9c04bc29aa2a6ed4446da5be38/98db03d9/screenshot_2020-11-28_at_12.14.46_am.png">  |  <img src ="https://dl.airtable.com/.attachments/c781c8872298a85b53b0131cc8710abb/05f2b0f9/20201126_164609.jpg"> | <img src ="https://dl.airtable.com/.attachments/e47d6e5a5a8d8a1782f932b9f0412606/ab2dbe83/screenshot_2020-11-25_at_9.26.33_am.png"> |
 |---|---|---|
-| made some progress with a flimsy (for now) wall! and drilled through metal which was painful but lik... | fun fact i now have a registered spotify artist account!  | making something with hardware!   |
+| making something with @msw (inspired by the panic sign)! | made some progress with a flimsy (for now) wall! and drilled through metal which was painful but lik...  | fun fact i now have a registered spotify artist account!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
