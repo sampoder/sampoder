@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/b9b43f9c04bc29aa2a6ed4446da5be38/98db03d9/screenshot_2020-11-28_at_12.14.46_am.png">  |  <img src ="https://dl.airtable.com/.attachments/c781c8872298a85b53b0131cc8710abb/05f2b0f9/20201126_164609.jpg"> | <img src ="https://dl.airtable.com/.attachments/e47d6e5a5a8d8a1782f932b9f0412606/ab2dbe83/screenshot_2020-11-25_at_9.26.33_am.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/db1281896c7f133e80c23b49f8721410/7366cf84/pie_a_teacher__3_.png">  |  <img src ="https://dl.airtable.com/.attachments/b9b43f9c04bc29aa2a6ed4446da5be38/98db03d9/screenshot_2020-11-28_at_12.14.46_am.png"> | <img src ="https://dl.airtable.com/.attachments/c781c8872298a85b53b0131cc8710abb/05f2b0f9/20201126_164609.jpg"> |
 |---|---|---|
-| making something with @msw (inspired by the panic sign)! | made some progress with a flimsy (for now) wall! and drilled through metal which was painful but lik...  | fun fact i now have a registered spotify artist account!   |
+| preparing a pie a teacher in the face event for school! s/o @23neil.g for the poster | making something with @msw (inspired by the panic sign)!  | made some progress with a flimsy (for now) wall! and drilled through metal which was painful but lik...   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
