@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/db1281896c7f133e80c23b49f8721410/7366cf84/pie_a_teacher__3_.png">  |  <img src ="https://dl.airtable.com/.attachments/b9b43f9c04bc29aa2a6ed4446da5be38/98db03d9/screenshot_2020-11-28_at_12.14.46_am.png"> | <img src ="https://dl.airtable.com/.attachments/c781c8872298a85b53b0131cc8710abb/05f2b0f9/20201126_164609.jpg"> |
+  | <img src ="https://dl.airtable.com/.attachments/a4cb2873d04a9e88ce65c97098087172/65b4397b/photo_on_11-29-20_at_9.39_am.jpg">  |  <img src ="https://dl.airtable.com/.attachments/db1281896c7f133e80c23b49f8721410/7366cf84/pie_a_teacher__3_.png"> | <img src ="https://dl.airtable.com/.attachments/b9b43f9c04bc29aa2a6ed4446da5be38/98db03d9/screenshot_2020-11-28_at_12.14.46_am.png"> |
 |---|---|---|
-| preparing a pie a teacher in the face event for school! s/o @23neil.g for the poster | making something with @msw (inspired by the panic sign)!  | made some progress with a flimsy (for now) wall! and drilled through metal which was painful but lik...   |
+| me & @msw took a very fun pic together through zoom! | preparing a pie a teacher in the face event for school! s/o @23neil.g for the poster  | making something with @msw (inspired by the panic sign)!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
