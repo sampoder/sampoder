@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/a4cb2873d04a9e88ce65c97098087172/65b4397b/photo_on_11-29-20_at_9.39_am.jpg">  |  <img src ="https://dl.airtable.com/.attachments/db1281896c7f133e80c23b49f8721410/7366cf84/pie_a_teacher__3_.png"> | <img src ="https://dl.airtable.com/.attachments/b9b43f9c04bc29aa2a6ed4446da5be38/98db03d9/screenshot_2020-11-28_at_12.14.46_am.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/c56794e531612599458700441aa09943/06c8caa6/2020-12-04.jpg">  |  <img src ="https://dl.airtable.com/.attachments/1259ed8e3cec0c4309f6499ad5b142bc/0847f852/20201203_170019.jpg"> | <img src ="https://dl.airtable.com/.attachments/c635e6c6cf9cb8a0d0d1166f6d66ee0f/759421a0/screenshot_2020-12-03_at_11.24.19_pm.png"> |
 |---|---|---|
-| me & @msw took a very fun pic together through zoom! | preparing a pie a teacher in the face event for school! s/o @23neil.g for the poster  | making something with @msw (inspired by the panic sign)!   |
+| student council is making santa suprises (goodie bags) for christmas! | small pieces of progress!  | reviewing workshops!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
