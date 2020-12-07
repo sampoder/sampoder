@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/c56794e531612599458700441aa09943/06c8caa6/2020-12-04.jpg">  |  <img src ="https://dl.airtable.com/.attachments/1259ed8e3cec0c4309f6499ad5b142bc/0847f852/20201203_170019.jpg"> | <img src ="https://dl.airtable.com/.attachments/c635e6c6cf9cb8a0d0d1166f6d66ee0f/759421a0/screenshot_2020-12-03_at_11.24.19_pm.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/03558d46c7bd9b9b5225eb0190d5e777/fa708a14/screenshot_2020-12-07_at_11.55.29_pm.png">  |  <img src ="https://dl.airtable.com/.attachments/eb8d74fb95d892379c813cf505a31a64/5eb17528/img-20201205-wa0001.jpeg"> | <img src ="https://dl.airtable.com/.attachments/c56794e531612599458700441aa09943/06c8caa6/2020-12-04.jpg"> |
 |---|---|---|
-| student council is making santa suprises (goodie bags) for christmas! | small pieces of progress!  | reviewing workshops!   |
+| i made a newsletter for the new school magazine launching tomorrow! i used next.js, mdx and deployed... | went to a cafe next to seletar airport and got a Norfolk pine for a Christmas tree  | student council is making santa suprises (goodie bags) for christmas!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
