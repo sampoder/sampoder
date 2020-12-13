@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/0283f605bc7b895489efde91d9e7051e/075e84a0/20201208_172838.jpg">  |  <img src ="https://dl.airtable.com/.attachments/03558d46c7bd9b9b5225eb0190d5e777/fa708a14/screenshot_2020-12-07_at_11.55.29_pm.png"> | <img src ="https://dl.airtable.com/.attachments/eb8d74fb95d892379c813cf505a31a64/5eb17528/img-20201205-wa0001.jpeg"> |
+  | <img src ="https://dl.airtable.com/.attachments/d2021473aae5de8018057ae0a56ac832/10579bff/screenshot_2020-12-13_at_10.19.06_am.png">  |  <img src ="https://dl.airtable.com/.attachments/0b6f88ac134181abcfb32cf95995b7d3/d32dfb94/20201210_162558.jpg"> | <img src ="https://dl.airtable.com/.attachments/7985e4e7d15e6ce830538cc0a2daebce/d0d6f9fd/screenshot_2020-12-09_at_5.33.03_pm.png"> |
 |---|---|---|
-| progress!!! | i made a newsletter for the new school magazine launching tomorrow! i used next.js, mdx and deployed...  | went to a cafe next to seletar airport and got a Norfolk pine for a Christmas tree   |
+| getting back to working on my new website! | it's getting there!!! last few steps for the structure then I gotta make the electronics  | :yay: :shipment-dino: :hugohu:   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
