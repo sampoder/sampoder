@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/d2021473aae5de8018057ae0a56ac832/10579bff/screenshot_2020-12-13_at_10.19.06_am.png">  |  <img src ="https://dl.airtable.com/.attachments/0b6f88ac134181abcfb32cf95995b7d3/d32dfb94/20201210_162558.jpg"> | <img src ="https://dl.airtable.com/.attachments/7985e4e7d15e6ce830538cc0a2daebce/d0d6f9fd/screenshot_2020-12-09_at_5.33.03_pm.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/76877979ac98b43f285c6257b5c4edb8/00161434/20201218_181345.jpg">  |  <img src ="https://dl.airtable.com/.attachments/0ab29f0eab3a6b162677dc20357b4196/fcc7d467/screenshot_2020-12-17_at_1.09.33_am.png"> | <img src ="https://dl.airtable.com/.attachments/223c11bd60f87852d0126aebb0c01439/ed7b5f17/circuit-board_3.png"> |
 |---|---|---|
-| getting back to working on my new website! | it's getting there!!! last few steps for the structure then I gotta make the electronics  | :yay: :shipment-dino: :hugohu:   |
+| school ended!! thanks for the secret Santa gift @23neil.g!! | planning out buying stickers and badges!!  | hey friends! thoughts on this design?   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
