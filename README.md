@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/76877979ac98b43f285c6257b5c4edb8/00161434/20201218_181345.jpg">  |  <img src ="https://dl.airtable.com/.attachments/0ab29f0eab3a6b162677dc20357b4196/fcc7d467/screenshot_2020-12-17_at_1.09.33_am.png"> | <img src ="https://dl.airtable.com/.attachments/223c11bd60f87852d0126aebb0c01439/ed7b5f17/circuit-board_3.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/a3ca88b46cee14039c831b01a2e11337/cf7603d3/the_magical_formula_for__welcome_envelopes.png">  |  <img src ="https://dl.airtable.com/.attachments/76877979ac98b43f285c6257b5c4edb8/00161434/20201218_181345.jpg"> | <img src ="https://dl.airtable.com/.attachments/0ab29f0eab3a6b162677dc20357b4196/fcc7d467/screenshot_2020-12-17_at_1.09.33_am.png"> |
 |---|---|---|
-| school ended!! thanks for the secret Santa gift @23neil.g!! | planning out buying stickers and badges!!  | hey friends! thoughts on this design?   |
+| The Magical Formula for Welcome Envelopes! | school ended!! thanks for the secret Santa gift @23neil.g!!  | planning out buying stickers and badges!!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
