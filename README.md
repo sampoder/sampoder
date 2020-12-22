@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/d5d07013c76cda1347f5b4063c84422b/fb7f3a36/screenshot_20201221-123151_messages.jpg">  |  <img src ="https://dl.airtable.com/.attachments/88edf0e3558924554c6bb93891c28b66/ce1e1f88/screenshot_2020-12-20_at_11.33.54_pm.png"> | <img src ="https://dl.airtable.com/.attachments/a3ca88b46cee14039c831b01a2e11337/cf7603d3/the_magical_formula_for__welcome_envelopes.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/1de4d637fa4571f33181c77990ca566c/51b6e772/screen_recording.mp4">  |  <img src ="https://dl.airtable.com/.attachments/d5d07013c76cda1347f5b4063c84422b/fb7f3a36/screenshot_20201221-123151_messages.jpg"> | <img src ="https://dl.airtable.com/.attachments/88edf0e3558924554c6bb93891c28b66/ce1e1f88/screenshot_2020-12-20_at_11.33.54_pm.png"> |
 |---|---|---|
-| going to library after a while! (last time was pre circuit breaker) | making maps!  | The Magical Formula for Welcome Envelopes!   |
+| made a rick rolling thing! you fill out the form and it gives you a call with the rick roll + a litt... | going to library after a while! (last time was pre circuit breaker)  | making maps!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
