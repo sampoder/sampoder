@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/4d7269938ec50a319d1f60a2a49c19fb/996338de/img_20201222_212122.jpg">  |  <img src ="https://dl.airtable.com/.attachments/b2bcdf1def28c813a0161de0bd33e2cb/e837eb36/vid_66301018_075347_838.mp4"> | <img src ="https://dl.airtable.com/.attachments/dfc89531422a40ae76a91d14ced89839/caa0a698/screenshot_2020-12-22_at_10.58.36_am.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/0b8c3285cb28d27499648b09eb698684/6c6e9b72/20201222_212523.jpg">  |  <img src ="https://dl.airtable.com/.attachments/4d7269938ec50a319d1f60a2a49c19fb/996338de/img_20201222_212122.jpg"> | <img src ="https://dl.airtable.com/.attachments/b2bcdf1def28c813a0161de0bd33e2cb/e837eb36/vid_66301018_075347_838.mp4"> |
 |---|---|---|
-| I got some next.js stickers and vercel fridge magnets! | made a quick Instagram and Facebook filter!  | i saw my name!!!   |
+| I now have vercel on my fridge! | I got some next.js stickers and vercel fridge magnets!  | made a quick Instagram and Facebook filter!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
