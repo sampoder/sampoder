@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/1de4d637fa4571f33181c77990ca566c/51b6e772/screen_recording.mp4">  |  <img src ="https://dl.airtable.com/.attachments/d5d07013c76cda1347f5b4063c84422b/fb7f3a36/screenshot_20201221-123151_messages.jpg"> | <img src ="https://dl.airtable.com/.attachments/88edf0e3558924554c6bb93891c28b66/ce1e1f88/screenshot_2020-12-20_at_11.33.54_pm.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/4d7269938ec50a319d1f60a2a49c19fb/996338de/img_20201222_212122.jpg">  |  <img src ="https://dl.airtable.com/.attachments/b2bcdf1def28c813a0161de0bd33e2cb/e837eb36/vid_66301018_075347_838.mp4"> | <img src ="https://dl.airtable.com/.attachments/dfc89531422a40ae76a91d14ced89839/caa0a698/screenshot_2020-12-22_at_10.58.36_am.png"> |
 |---|---|---|
-| made a rick rolling thing! you fill out the form and it gives you a call with the rick roll + a litt... | going to library after a while! (last time was pre circuit breaker)  | making maps!   |
+| I got some next.js stickers and vercel fridge magnets! | made a quick Instagram and Facebook filter!  | i saw my name!!!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
