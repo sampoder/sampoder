@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/aa13dd977b8517a4a32c7f2e018bd33d/7dfb6bc6/img_20201223_185711.jpg">  |  <img src ="https://dl.airtable.com/.attachments/4a30c9dbcaefc27fee2705c8a7a05a5b/10f1be4c/20201223_142328.jpg"> | <img src ="https://dl.airtable.com/.attachments/76128fd020706c7cbd9c79f537c7c275/667cc6c5/img_20201223_114523.jpg"> |
+  | <img src ="https://dl.airtable.com/.attachments/d52c998e920065dae087cb028b72cfda/3bf92f37/20201224_172053.jpg">  |  <img src ="https://dl.airtable.com/.attachments/aa13dd977b8517a4a32c7f2e018bd33d/7dfb6bc6/img_20201223_185711.jpg"> | <img src ="https://dl.airtable.com/.attachments/4a30c9dbcaefc27fee2705c8a7a05a5b/10f1be4c/20201223_142328.jpg"> |
 |---|---|---|
-| my parents won't be purchasing any new clothes this Christmas! | I tried an impossible burger, it was very nice  | I'm at the luge and it has really cool engineering I'm excited, never been   |
+| merry Christmas hack club!!!! (yay its finally here) | my parents won't be purchasing any new clothes this Christmas!  | I tried an impossible burger, it was very nice   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
