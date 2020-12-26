@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/961f91165648f7b93fd89a6677b5b7fd/d1b51c85/screenshot_2020-12-26_at_10.19.36_am.png">  |  <img src ="https://dl.airtable.com/.attachments/fade68727e1771a952c8d4f67b5517a9/939a69d9/img_20201225_102009.jpg"> | <img src ="https://dl.airtable.com/.attachments/d52c998e920065dae087cb028b72cfda/3bf92f37/20201224_172053.jpg"> |
+  | <img src ="https://dl.airtable.com/.attachments/1e5ad66ba33a64140e993f16623e0257/88751421/image_from_ios.jpg">  |  <img src ="https://dl.airtable.com/.attachments/961f91165648f7b93fd89a6677b5b7fd/d1b51c85/screenshot_2020-12-26_at_10.19.36_am.png"> | <img src ="https://dl.airtable.com/.attachments/fade68727e1771a952c8d4f67b5517a9/939a69d9/img_20201225_102009.jpg"> |
 |---|---|---|
-| I should post an update in #scrapbook | yay!!! look what I got for Christmas  | merry Christmas hack club!!!! (yay its finally here)   |
+| Tried out coding on my iPad! Was very cool! I built a little microservice to make a print from a git... | I should post an update in #scrapbook  | yay!!! look what I got for Christmas   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
