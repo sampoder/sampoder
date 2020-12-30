@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/96db8bbebac3b3cfb32c4cecf7230ed5/3ed2beb9/image_from_ios.jpg">  |  <img src ="https://dl.airtable.com/.attachments/b04a92a0972e2f5702a3431db70787c2/fcca4f9c/screenshot_2020-12-30_at_12.09.46_am.png"> | <img src ="https://dl.airtable.com/.attachments/f81dc0bb4dc18beeed08fb60a1079e95/7c42eaac/20201228_132850.jpg"> |
+  | <img src ="https://dl.airtable.com/.attachments/96db8bbebac3b3cfb32c4cecf7230ed5/3ed2beb9/image_from_ios.jpg">  |  <img src ="https://dl.airtable.com/.attachments/0ff2d5859aed0e05765eaa384343ab06/b9a00a75/contributions.png"> | <img src ="https://dl.airtable.com/.attachments/b04a92a0972e2f5702a3431db70787c2/fcca4f9c/screenshot_2020-12-30_at_12.09.46_am.png"> |
 |---|---|---|
-| thank you and merry late christmas @ongzhizheng! | hacking on kahoot!  | finally shipped my secret Santa gift! posting stuff is fun but expensive   |
+| thank you and merry late christmas @ongzhizheng! | wowza  | hacking on kahoot!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
