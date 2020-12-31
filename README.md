@@ -11,7 +11,7 @@
   <!--- START_SCRAPBOOK_WIDGET --->
   | <img src ="https://dl.airtable.com/.attachments/c53250cdffebb8fc2b46e68704a63832/a81a3ab8/scrappy_retry.png">  |  <img src ="https://dl.airtable.com/.attachments/96db8bbebac3b3cfb32c4cecf7230ed5/3ed2beb9/image_from_ios.jpg"> | <img src ="https://dl.airtable.com/.attachments/0ff2d5859aed0e05765eaa384343ab06/b9a00a75/contributions.png"> |
 |---|---|---|
-| scrappy retry coming soon! | thank you and merry late christmas @ongzhizheng!  | wowza   |
+| scrappy retry coming soon! edit: now live! if scrappy is annoying react with :scrappy-retry: to forc... | thank you and merry late christmas @ongzhizheng!  | wowza   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
