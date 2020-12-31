@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/96db8bbebac3b3cfb32c4cecf7230ed5/3ed2beb9/image_from_ios.jpg">  |  <img src ="https://dl.airtable.com/.attachments/0ff2d5859aed0e05765eaa384343ab06/b9a00a75/contributions.png"> | <img src ="https://dl.airtable.com/.attachments/b04a92a0972e2f5702a3431db70787c2/fcca4f9c/screenshot_2020-12-30_at_12.09.46_am.png"> |
+  | <img src ="https://dl.airtable.com/.attachments/c53250cdffebb8fc2b46e68704a63832/a81a3ab8/scrappy_retry.png">  |  <img src ="https://dl.airtable.com/.attachments/96db8bbebac3b3cfb32c4cecf7230ed5/3ed2beb9/image_from_ios.jpg"> | <img src ="https://dl.airtable.com/.attachments/0ff2d5859aed0e05765eaa384343ab06/b9a00a75/contributions.png"> |
 |---|---|---|
-| thank you and merry late christmas @ongzhizheng! | wowza  | hacking on kahoot!   |
+| scrappy retry coming soon! | thank you and merry late christmas @ongzhizheng!  | wowza   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
