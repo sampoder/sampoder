@@ -32,6 +32,4 @@
 
 **😄 Pronouns:** he/him/his
 
-Here are some random photos with no context from my life:
 
-<img src ="https://github.com/sampoder/sampoder/raw/master/GOPR5263.JPG" height = "200px">  <img src ="https://github.com/sampoder/sampoder/raw/master/IMG_0269.jpg" height = "200px"> <img src ="https://github.com/sampoder/sampoder/raw/master/20200807_111143.jpg/" height = "200px">
