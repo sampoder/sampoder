@@ -9,9 +9,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/c53250cdffebb8fc2b46e68704a63832/a81a3ab8/scrappy_retry.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/96db8bbebac3b3cfb32c4cecf7230ed5/3ed2beb9/image_from_ios.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/0ff2d5859aed0e05765eaa384343ab06/b9a00a75/contributions.png" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/0fe3e347bb2ea152abbb7c3ed782c168/c9f6d7f1/screenshot_2021-01-03_at_8.47.18_pm.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/7d52a2ec58a7ea6c0616c035996bdb5c/9cad1081/img_20210103_010434.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/2cf57c5155f5f668d65a49d0f2617da2/2f6aa7fd/screenshot_2021-01-01_at_3.19.02_pm.png" height="200px"> |
 |---|---|---|
-| scrappy retry coming soon! edit: now live! if scrappy is annoying react with :scrappy-retry: to forc... | thank you and merry late christmas @ongzhizheng!  | wowza   |
+| trying to design things in figma | planning out the most epic technology week a school has ever seen and sorted some stickers  | this me my github graph! in late jan, I joined hack club and in April started work on :summer-of-mak...   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
