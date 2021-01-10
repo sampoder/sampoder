@@ -11,9 +11,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/cdc966e71e3c6ebe974f7c7dace86d6c/94b06317/img_20210108_163747.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/418fffc05faec3e052860533c7531023/29a11675/screenshot_2021-01-07_at_6.20.02_pm.png" height="200px"> | <img src ="https://dl.airtable.com/.attachments/f5dea789b1b2122f00a21dbe9594ea5f/0006ecf0/screenshot_2021-01-07_at_5.06.47_pm.png" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/206dd1c65d174ff04816bb0c6d0bee27/36de97d2/screenshot_2021-01-11_at_1.19.01_am.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/0fd8410fd30f8fc336e8479c509a6592/f3b7e169/personal_project.mov" height="200px"> | <img src ="https://dl.airtable.com/.attachments/d6163520aa21bb46957f29cd1ed7e2ba/d9abbda6/img_20210109_193950.jpg" height="200px"> |
 |---|---|---|
-| big achievement look how clean my desk is | made some PRS to resurrect scrapbook redirect! @rishi @fayd @KhushrajRathod @googol @juliagersey @zf...  | leap!!   |
+| so i was like actually trying to sleep and then i was thinking about project ideas and then i though... | Wrapped up today with this super hacky prototype of my personal project that i put together today. (...  | making my best attempt at blowing up my house   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
