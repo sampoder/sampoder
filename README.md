@@ -28,7 +28,7 @@
 
 **🔭Current Project:** a few, but they're mostly ideas!
   
-**🌱 Currently Learning:** Next.js [(Check out this site I just made!)](http://summer.hackclub.com)
+**🌱 Currently Learning:** Next.js [(Check out this site I made!)](http://summer.hackclub.com)
 
 **🤔 Thinking about:** STEM Education
 
