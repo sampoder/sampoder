@@ -11,9 +11,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/9135b2cb1e71243bd85241f044d2740e/a0d78122/img_20210111_081515.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/206dd1c65d174ff04816bb0c6d0bee27/36de97d2/screenshot_2021-01-11_at_1.19.01_am.png" height="200px"> | <img src ="https://dl.airtable.com/.attachments/0fd8410fd30f8fc336e8479c509a6592/f3b7e169/personal_project.mov" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/6b1a34d149a2be80fd4e1ac3f3563903/40c48f1c/20210115_134151.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/ea2d13bb0aa2a308a44c371f36c9762f/778d3f8e/pe_fitness_work_2021.mp4" height="200px"> | <img src ="https://dl.airtable.com/.attachments/c83aafcb57f9952fa242aed00f4403ba/aa443d69/img_20210114_205256.jpg" height="200px"> |
 |---|---|---|
-| back to schooooll | so i was like actually trying to sleep and then i was thinking about project ideas and then i though...  | Wrapped up today with this super hacky prototype of my personal project that i put together today. (...   |
+| THE CLIMATATOR | an experiment in doing my PE work on procreate!  | got these motors + a custom badge!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
