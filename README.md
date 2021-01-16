@@ -11,9 +11,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/6b1a34d149a2be80fd4e1ac3f3563903/40c48f1c/20210115_134151.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/ea2d13bb0aa2a308a44c371f36c9762f/778d3f8e/pe_fitness_work_2021.mp4" height="200px"> | <img src ="https://dl.airtable.com/.attachments/c83aafcb57f9952fa242aed00f4403ba/aa443d69/img_20210114_205256.jpg" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/9fc62ead100374880b8605aa7ce4d5f6/d1bd3683/image_from_ios.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/6b1a34d149a2be80fd4e1ac3f3563903/40c48f1c/20210115_134151.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/ea2d13bb0aa2a308a44c371f36c9762f/778d3f8e/pe_fitness_work_2021.mp4" height="200px"> |
 |---|---|---|
-| THE CLIMATATOR | an experiment in doing my PE work on procreate!  | got these motors + a custom badge!   |
+| going to a hackathon with @23neil.g @arsh7chetana + @23odin.s! .... only pic i have :/ | THE CLIMATATOR  | an experiment in doing my PE work on procreate!   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
