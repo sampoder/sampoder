@@ -11,9 +11,9 @@
   
   
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/f387a101d53d5f7ca1c3c513bc3cada7/2cc427b4/20210122_202000.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/c5f884051017d84801b53a273da4e428/d960a51a/screenshot_2021-01-21_at_10.44.15_pm.png" height="200px"> | <img src ="https://dl.airtable.com/.attachments/84e7dab23cc8d32f97589df1af779c12/37a94da9/screenshot_2021-01-20_at_9.31.19_pm.png" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/8d080548ce3cd5cec568ed740dec6e69/61f5b278/img-20210122-wa0001.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/f387a101d53d5f7ca1c3c513bc3cada7/2cc427b4/20210122_202000.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/c5f884051017d84801b53a273da4e428/d960a51a/screenshot_2021-01-21_at_10.44.15_pm.png" height="200px"> |
 |---|---|---|
-| Received 8 sticker mule gift cards!!! | writing code comments, kinda relaxing  | somehow with all the workshops prs @matthew just merged i made it into the top contributors in hackc...   |
+| went to the opening night of guzman y gomez!! my mum made friends with the owners who are australian | Received 8 sticker mule gift cards!!!  | writing code comments, kinda relaxing   |
   <!--- END_SCRAPBOOK_WIDGET --->
   
   
