@@ -7,9 +7,9 @@
 </p>
 
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/6955f7986aacd402c556232301b64d5d/db95f80c/img-20210127-wa0011.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/d1151fcbdc9c21729a8419c696fb480b/1eb8ff2b/screenshot_20210127-071750_gmail.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/aee15359dcc6d9e98df68bec767b5930/a3589ce0/screenshot_2021-01-26_at_9.17.04_pm.png" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/a6f2ae2d440c560b2f50aa9d214a8639/62b22b1b/screenshot_2021-01-29_at_1.19.13_pm.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/6955f7986aacd402c556232301b64d5d/db95f80c/img-20210127-wa0011.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/d1151fcbdc9c21729a8419c696fb480b/1eb8ff2b/screenshot_20210127-071750_gmail.jpg" height="200px"> |
 |---|---|---|
-| exams aren't fun lah | I won against Amazon!  | released a soon to be top 10 song on spotify: [https://open.spotify.com/track/2XdouzVCoz9UEQObPZhsXq...   |
+| im excited | exams aren't fun lah  | I won against Amazon!   |
   <!--- END_SCRAPBOOK_WIDGET --->
 
 These are updates from my [**scrapbook**](https://scrapbook.hackclub.com/sampoder) ^
