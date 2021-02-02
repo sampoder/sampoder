@@ -7,9 +7,9 @@
 </p>
 
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/a6f2ae2d440c560b2f50aa9d214a8639/62b22b1b/screenshot_2021-01-29_at_1.19.13_pm.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/6955f7986aacd402c556232301b64d5d/db95f80c/img-20210127-wa0011.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/d1151fcbdc9c21729a8419c696fb480b/1eb8ff2b/screenshot_20210127-071750_gmail.jpg" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/31d218a5ccf6acb842c322c970abe888/2a2ae879/image_from_ios__2_.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/af0397502ad05ea1718fd447c4d19bb8/d92f52da/screenshot_2021-02-01_at_10.41.35_pm.png" height="200px"> | <img src ="https://dl.airtable.com/.attachments/d166ca333092270bfe20a2334f184e80/49c8a80b/screenshot_2021-01-31_at_7.53.42_pm.png" height="200px"> |
 |---|---|---|
-| im excited | exams aren't fun lah  | I won against Amazon!   |
+| got som-mail-system working to handle india distribution of leaps! | did a lot of catchup today  | got to the silver final of the singapore debate champs! sadly lost :(   |
   <!--- END_SCRAPBOOK_WIDGET --->
 
 These are updates from my [**scrapbook**](https://scrapbook.hackclub.com/sampoder) ^
