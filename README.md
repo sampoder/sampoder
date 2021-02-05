@@ -7,9 +7,9 @@
 </p>
 
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/48a1489a517525ad5a217bcf5259c191/e6528b95/screenshot_2021-02-04_at_11.09.51_am.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/f53e27a9aa2cbc866a9a4075acd93ece/1b878eab/image_from_ios.mov" height="200px"> | <img src ="https://dl.airtable.com/.attachments/53589936709fa3acd6180ab92cfdcaeb/baad4c12/20210202_170940.jpg" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/94d633d18ca69e76a57d91235c4279bd/2aa61c0d/img_20210205_212019.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/48a1489a517525ad5a217bcf5259c191/e6528b95/screenshot_2021-02-04_at_11.09.51_am.png" height="200px"> | <img src ="https://dl.airtable.com/.attachments/f53e27a9aa2cbc866a9a4075acd93ece/1b878eab/image_from_ios.mov" height="200px"> |
 |---|---|---|
-| yay! | going to run a massive interactive disco at school, making stuff with my leap and sonic pi to enable...  | big box, 22kg! thank you :github:   |
+| stage 1 of letter prep | yay!  | going to run a massive interactive disco at school, making stuff with my leap and sonic pi to enable...   |
   <!--- END_SCRAPBOOK_WIDGET --->
 
 These are updates from my [**scrapbook**](https://scrapbook.hackclub.com/sampoder) ^
