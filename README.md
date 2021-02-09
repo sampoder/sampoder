@@ -7,9 +7,9 @@
 </p>
 
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/94d633d18ca69e76a57d91235c4279bd/2aa61c0d/img_20210205_212019.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/48a1489a517525ad5a217bcf5259c191/e6528b95/screenshot_2021-02-04_at_11.09.51_am.png" height="200px"> | <img src ="https://dl.airtable.com/.attachments/f53e27a9aa2cbc866a9a4075acd93ece/1b878eab/image_from_ios.mov" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/6d3a7b9a637b0b63fb80117f20db5505/47db0e6c/img_20210210_005217.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/74cdae2395f99b88118ffc342d334ece/a4dddadd/image_from_ios.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/e4162c8c8a662632a7d0139ab1c7f44c/812538d5/screenshot_2021-02-08_myp_personal_project_exhibition_2021_____.png" height="200px"> |
 |---|---|---|
-| stage 1 of letter prep | yay!  | going to run a massive interactive disco at school, making stuff with my leap and sonic pi to enable...   |
+| made this little contraption... doesn't seem like much now but it should be cool in the future | got this super dope hardware box! also got a pi pico!  | making a new website! [http://personal-project-showcase.vercel.app](http://personal-project-showcase   |
   <!--- END_SCRAPBOOK_WIDGET --->
 
 These are updates from my [**scrapbook**](https://scrapbook.hackclub.com/sampoder) ^
