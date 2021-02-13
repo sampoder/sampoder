@@ -7,9 +7,9 @@
 </p>
 
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/fdd5fbded52f4829439b1f9269452877/fb83c12f/golden_ticket.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/6d3a7b9a637b0b63fb80117f20db5505/47db0e6c/img_20210210_005217.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/74cdae2395f99b88118ffc342d334ece/a4dddadd/image_from_ios.jpg" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/3bfc8bf931d8e5968183681ef5faf4d6/ee9b4038/screenshot_2021-02-13_at_6.48.20_pm.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/3cd574250563060b5f06cc9ee5dcbd3a/a1ed5e18/screenshot_2021-02-12_at_11.53.45_pm.png" height="200px"> | <img src ="https://dl.airtable.com/.attachments/e30deb2d3151c3d876f8e3041e80ed27/1913c09f/img_20210211_141429.jpg" height="200px"> |
 |---|---|---|
-| designed some github golden tickets | made this little contraption... doesn't seem like much now but it should be cool in the future  | got this super dope hardware box! also got a pi pico!   |
+| making music with sonic pi! |   | making more contraptions   |
   <!--- END_SCRAPBOOK_WIDGET --->
 
 These are updates from my [**scrapbook**](https://scrapbook.hackclub.com/sampoder) ^
