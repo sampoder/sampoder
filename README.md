@@ -7,9 +7,9 @@
 </p>
 
   <!--- START_SCRAPBOOK_WIDGET --->
-  | <img src ="https://dl.airtable.com/.attachments/3bfc8bf931d8e5968183681ef5faf4d6/ee9b4038/screenshot_2021-02-13_at_6.48.20_pm.png" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/3cd574250563060b5f06cc9ee5dcbd3a/a1ed5e18/screenshot_2021-02-12_at_11.53.45_pm.png" height="200px"> | <img src ="https://dl.airtable.com/.attachments/e30deb2d3151c3d876f8e3041e80ed27/1913c09f/img_20210211_141429.jpg" height="200px"> |
+  | <img src ="https://dl.airtable.com/.attachments/66463f7c6f4ddba82afa680d5df4c46a/f3da0df6/img_20210218_192349.jpg" height="200px">  |  <img src ="https://dl.airtable.com/.attachments/4fd38f51edbfdd09b83f5c3aab7b6eb0/d6655a11/20210216_201442.jpg" height="200px"> | <img src ="https://dl.airtable.com/.attachments/a9cca22e5d04e1146d78584bf1e30571/b4f40e2c/untitled_project.mp4" height="200px"> |
 |---|---|---|
-| making music with sonic pi! |   | making more contraptions   |
+| set up for innovation week with @arsh7chetana and @24diego.s! | just me and my 9 raspberry pis  | edited a video with @23neil.g!   |
   <!--- END_SCRAPBOOK_WIDGET --->
 
 These are updates from my [**scrapbook**](https://scrapbook.hackclub.com/sampoder) ^
