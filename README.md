@@ -7,9 +7,7 @@
   <a href="https://scrapbook.hackclub.com/sampoder">Scrapbook</a>
 </p>
   
-**🇦🇺 I'm from:** Australia
-
-**🇸🇬 I live in:** Singapore
+ I'm from 🇦🇺 Australia but live in 🇸🇬 Singapore. I enjoy making websites and interactive experiences!
 
 **📫 Email me:** hi@sampoder.com
 
