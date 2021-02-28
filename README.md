@@ -7,8 +7,4 @@
   <a href="https://scrapbook.hackclub.com/sampoder">Scrapbook</a>
 </p>
   
- I'm from 🇦🇺 Australia but live in 🇸🇬 Singapore. I enjoy making websites and interactive experiences!
-
-**📫 Email me:** hi@sampoder.com
-
-**😄 Pronouns:** he/him/his
+ I'm from 🇦🇺 Australia but live in 🇸🇬 Singapore. I enjoy making websites and interactive experiences! You can 📫 email me at [hi@sampoder.com](mailto:hi@sampoder.com). Also, my pronouns are `he/him/his`.
