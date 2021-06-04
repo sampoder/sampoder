@@ -7,3 +7,5 @@
 </p>
   
  I'm from 🇦🇺 Australia but live in 🇸🇬 Singapore. I enjoy making websites and weird interactive experiences (whatever you define that to mean)! You can 📫 email me at [hi@sampoder.com](mailto:hi@sampoder.com). Also, my pronouns are `he/him/his`.
+
+At the moment, I'm learning Supabase, Prisma and TypeScript!
