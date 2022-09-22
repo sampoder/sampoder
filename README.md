@@ -12,4 +12,4 @@
   
 I'm from 🇦🇺 Australia but live in 🇸🇬 Singapore. I enjoy making things! I open source everything I make here on GitHub. You can 📫 email me at [hi@sampoder.com](mailto:hi@sampoder.com). Also, my pronouns are `he/him/his`.
 
-###### Teenager in Singapore? Join [🦁 Lion City Hacks](https://lioncityhacks.com).
+###### Teenager in Singapore? Sign up for [🦁 Lion City Hacks](https://lioncityhacks.com)!
