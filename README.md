@@ -2,7 +2,7 @@
 
 ![Frame 1-2](https://user-images.githubusercontent.com/39828164/189525330-086aadbe-956b-4d56-a039-176b5dc6efb1.jpg)
 
-📸 Assemble, August 7th 2022, San Francisco
+📸 [Assemble](https://www.youtube.com/watch?v=PnK4gzO6S3Q), August 7th 2022, San Francisco
 
 <p align="left">
   <a href="https://twitter.com/sam_poder">Twitter</a> •
