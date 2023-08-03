@@ -10,4 +10,4 @@
   <a href="https://scrapbook.hackclub.com/sampoder">Scrapbook</a>
 </p>
   
-I'm from 🇦🇺 Australia but live in 🇸🇬 Singapore. I enjoy making things! I open source everything I make here on GitHub. You can 📫 email me at [hi@sampoder.com](mailto:hi@sampoder.com). Also, my pronouns are `he/him/his`.
+I'm from 🇦🇺 Australia but live in the 🇺🇸 US. I enjoy making things! I open source everything I make here on GitHub. You can 📫 email me at [hi@sampoder.com](mailto:hi@sampoder.com). Also, my pronouns are `he/him/his`.
