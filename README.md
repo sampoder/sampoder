@@ -1,5 +1,3 @@
-## 👋 Hey! Welcome to my makerspace!
-
 ![Frame 1-2](https://user-images.githubusercontent.com/39828164/189525330-086aadbe-956b-4d56-a039-176b5dc6efb1.jpg)
 
 📸 [Assemble](https://www.youtube.com/watch?v=PnK4gzO6S3Q), August 7th 2022, San Francisco
